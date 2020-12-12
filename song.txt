@@ -5,3 +5,5 @@ first line
 
 Шестая строчка
 Седьмая строчка
+
+new content
