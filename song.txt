@@ -5,5 +5,7 @@ first line
 
 Шестая строчка
 Седьмая строчка
-
 new content
+
+Super new content
+Super new content
